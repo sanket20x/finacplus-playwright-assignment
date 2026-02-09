@@ -1,4 +1,4 @@
-# Demoqa and Reqress automation using playwright, javscript
+# Demoqa and Reqress automation using Playwright, Javascript
 
 This repository contains UI and API automation tests implemented using **Playwright with JavaScript** as part of the QA study.
 
