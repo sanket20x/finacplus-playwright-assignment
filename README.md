@@ -1,4 +1,4 @@
-# FinacPlus QA Automation Assignment
+# Demoqa and Reqress automation using playwright, javscript
 
 This repository contains UI and API automation tests implemented using **Playwright with JavaScript** as part of the QA study.
 
