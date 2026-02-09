@@ -1,6 +1,6 @@
 # FinacPlus QA Automation Assignment
 
-This repository contains UI and API automation tests implemented using **Playwright with JavaScript** as part of the QA Automation Intern case study.
+This repository contains UI and API automation tests implemented using **Playwright with JavaScript** as part of the QA study.
 
 The project covers both **UI automation** (DemoQA Book Store) and **API automation** (ReqRes mock API).
 
